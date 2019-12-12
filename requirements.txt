@@ -1,0 +1,7 @@
+pyteomics
+pandas
+lxml
+PyQt4
+numpy
+scipy
+matplotlib
